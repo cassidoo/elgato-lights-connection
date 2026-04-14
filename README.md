@@ -8,7 +8,7 @@ Control your Elgato Key Lights on Windows using buttons on the Logitech MX Creat
 
 - Windows 10/11
 - Python 3.6+
-- [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)
+- [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) (if you're controlling the app from the MX Creative Console)
 - Elgato Key Light(s) on the same local network (this has been tested with the original Elgato Key Light and the Elgato Key Light Air)
 
 (This also assumes you have the MX Creative Console device)
