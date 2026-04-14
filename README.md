@@ -2,6 +2,8 @@
 
 Control your Elgato Key Lights on Windows using buttons on the Logitech MX Creative Console via Logi Options+.
 
+**Note**: You can use these scripts to control your lights from *any* hardware or software, but the setup below assumes the MX Creative Console!
+
 ## Requirements
 
 - Windows 10/11
